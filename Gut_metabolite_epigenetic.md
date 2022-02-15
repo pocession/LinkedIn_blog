@@ -1,7 +1,7 @@
 # Gut microbial metabolites affect host immunity through epigenetic modification
 
 It is becoming clear that gut microbiota and their metabolites have profound influence on host immunity. Gut microbiota produce metabolites such as 
-SCFA (short-chain fatty acid) or Folates that can modulate epigenetic modifications, thereby regulate the host gene expression. Here I review current findings.
+SCFA (short-chain fatty acid) or folates that can modulate epigenetic modifications, thereby regulate immune-related genes. Here I review current findings.
 
 ![Overview](metabolite_epigenetic_overview.png)
 
