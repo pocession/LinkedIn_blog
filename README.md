@@ -1,6 +1,7 @@
 # LinkedIn blog
 This repository hosts blogs that are written for LinkedIn.
 
-## Aging_Methylation
+## DNA Methylation
 - [Gut microbial metabolites affect host immunity through epigenetic modification](Gut_metabolite_epigenetic.md)
-- A note for my lab progress report.
+- [A comparison of DNA methylation analysis methods](DNA_methylation_methods.md)
+- [Methylkit workflow](Methylkit_workflow.md).
