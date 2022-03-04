@@ -1,6 +1,6 @@
 # Methylkit is a powerful tool for identifying DNA methylation differences between two groups.
 
-To identify DNA methylation changes caused by experimental factors, e.g. presence of microbiome, aging, we need to compare the whole-genome DNA methylation status and identify the differentially-methylated regions (DMRs) between two groups. Methylkit is a powerful tool helping us to achieve this. A workflow of Methylkit package is shown here.
+To find out DNA methylation changes caused by experimental factors, e.g. presence of microbiome, aging, we need to compare the whole-genome DNA methylation status and identify the differentially-methylated regions (DMRs) between two groups. Methylkit is a powerful tool helping us to achieve this. A workflow of Methylkit package is shown here.
 
 ![Methylkit workflow](Methylkit_workflow.png)
 
