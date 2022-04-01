@@ -5,3 +5,4 @@ This repository hosts blogs that are written for LinkedIn.
 - [Gut microbial metabolites affect host immunity through epigenetic modification](Gut_metabolite_epigenetic.md)
 - [A comparison of DNA methylation analysis methods](DNA_methylation_methods.md)
 - [Methylkit workflow](Methylkit_workflow.md).
+- [Genomic tiling workflow](Methylkit_workflow.md)

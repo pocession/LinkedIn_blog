@@ -2,7 +2,7 @@
 
 Genome-wide DNA methylation profiling is usually shown in single-base resolution. However, to gain further  insight, it is better to generate methylation profiling by summarizing methylation levels within a fixed number of base pairs (bp) (1). For example, to understand the genome-wide DNA methylation profiling in transcription factor binding sites, methylation levels within 20 bp needs to be first gathered into a "tile". A representative methylation level of this 20-bp tile will be calculated and normalized with other tiles across the genome (2). Tiling length varies according on the features. 1000-bp is good for showing methylation levels in promoter regions but 200bp are necessary for discussing chromatin states (3). Here is a summary for the genomic tiling process.
 
-![Tiling workflow](Tiling_workflow.png)
+![Tiling workflow](Figs/Tiling_workflow.png)
 
 ## Reference
 1. Smith, Zachary D., Michelle M. Chan, Tarjei S. Mikkelsen, Hongcang Gu, Andreas Gnirke, Aviv Regev, and Alexander Meissner. "A unique regulatory phase of DNA methylation in the early mammalian embryo." Nature 484, no. 7394 (2012): 339-344.
