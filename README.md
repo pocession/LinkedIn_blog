@@ -6,3 +6,6 @@ This repository hosts blogs that are written for LinkedIn.
 - [A comparison of DNA methylation analysis methods](DNA_methylation_methods.md)
 - [Methylkit workflow](Methylkit_workflow.md).
 - [Tiling workflow](Methylation_tile.md)
+
+## My first streamlit app
+- [A online prediction tools for single cell omics data](AutoCellMl.md).
