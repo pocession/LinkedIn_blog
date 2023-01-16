@@ -7,5 +7,8 @@ This repository hosts blogs that are written for LinkedIn.
 - [Methylkit workflow](Methylkit_workflow.md).
 - [Tiling workflow](Methylation_tile.md)
 
-## My first streamlit app
+## My streamlit app
 - [A online prediction tools for single cell omics data](AutoCellMl.md).
+
+## My javascript app
+- [Bankist](Bankist.md)
