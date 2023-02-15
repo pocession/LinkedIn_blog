@@ -1,0 +1,15 @@
+## Five types of Bioinormaticians
+
+I always think Bioinformatician mainly focus on "next generation sequencing (NGS)" data. Turns out, in the industry world, people expect at least 5 types of Bioinformaticians:
+
+1. Omics Bioiformatician: they use computational tools to analyze complex biological data such as genomics, transcriptomics, proteomics, and metabolomics data. In most of cases, data come from NGS.
+
+2. Computational Bioinformatician: they mainly develop and apply computational algorithms to solve biological problems such as gene expression analysis, network analysis, and phylogenetics.
+
+3. Statistics bioinformatician, or called Biostatistician: they use statistical methods to analyze biological data and design experiments to test hypotheses. Commonly used methods include regression, ANOVA, various of two sample tests.
+
+4. Clinical Bioinformatician or Informatics Specialists: they develop and manages clinical information systems and databases to support healthcare delivery and research. They are more like typical software developers.
+
+5. Data Bioinformatician or Data Scientist: they apply statistical and computational techniques to analyze complex biological data, identify patterns, and develop predictive models.
+
+These are just a few examples, and there may be overlap between these roles. The specific skills and expertise required for a particular job in bioinformatics may vary depending on the employer, the specific field of biology, and the project being worked on
