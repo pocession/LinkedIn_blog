@@ -10,6 +10,6 @@ The oldest and most fascinating topic in life science is definitely how to incre
 
 #aging #immunology #research
 
-Credit - information is obtained from this [review](https://www.sciencedirect.com/science/article/abs/pii/S0092867422013770).
-This figure is created by Biorender.
+- Credit - information is obtained from this [review](https://www.sciencedirect.com/science/article/abs/pii/S0092867422013770).
+- This figure is created by Biorender.
 ![lifespan](./Figs/lifespan.png)
